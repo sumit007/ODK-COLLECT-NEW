@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/opendatakit.collect/opendatakit.collect.iml" filepath="$PROJECT_DIR$/opendatakit.collect/opendatakit.collect.iml" />
+    </modules>
+  </component>
+</project>
+

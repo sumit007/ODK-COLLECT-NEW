@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<namespace type="array">
+  <namespace>
+    <address nil="true"/>
+    <city nil="true"/>
+    <comment></comment>
+    <created-at type="datetime">2014-07-08T03:54:10Z</created-at>
+    <email nil="true"/>
+    <house-size type="integer" nil="true"/>
+    <house-type nil="true"/>
+    <id type="integer">1</id>
+    <locality></locality>
+    <model>model1</model>
+    <name nil="true"/>
+    <phone nil="true"/>
+    <source>website</source>
+    <updated-at type="datetime">2014-07-08T03:54:10Z</updated-at>
+  </namespace>
+  <namespace>
+    <address nil="true"/>
+    <city nil="true"/>
+    <comment></comment>
+    <created-at type="datetime">2014-07-08T04:28:00Z</created-at>
+    <email nil="true"/>
+    <house-size type="integer" nil="true"/>
+    <house-type nil="true"/>
+    <id type="integer">2</id>
+    <locality></locality>
+    <model>model1</model>
+    <name nil="true"/>
+    <phone nil="true"/>
+    <source>website</source>
+    <updated-at type="datetime">2014-07-08T04:28:00Z</updated-at>
+  </namespace>
+</namespace>
